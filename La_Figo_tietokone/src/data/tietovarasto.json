@@ -1,0 +1,62 @@
+[
+  {
+    "tietokonenumero": 2,
+    "hinta": 10,
+    "merkki": "MaxEffect 2000",
+    "suoritin": "Älli",
+    "valmistusvuosi": 2018,
+    "kiintolevy": "10 GB",
+    "värit": ["sininen", "vihreä", "valkoinen"],
+    "lisätiedot": { "kulutus": "E", "malli": "XL" }
+  },
+  {
+    "tietokonenumero": 4,
+    "hinta": 499,
+    "merkki": "GameDelux",
+    "suoritin": "Armas 8",
+    "valmistusvuosi": 2000,
+    "kiintolevy": "4 TB",
+    "värit": ["musta", "sininen"],
+    "lisätiedot": { "kulutus": "A+", "malli": "VIP" }
+  },
+  {
+    "tietokonenumero": 1,
+    "hinta": 300,
+    "merkki": "FutSign 3000",
+    "suoritin": "Letni 64",
+    "valmistusvuosi": 1995,
+    "kiintolevy": "4 TB",
+    "värit": ["sininen", "punainen", "oranssi"],
+    "lisätiedot": { "kulutus": "D", "malli": "gold" }
+  },
+  {
+    "tietokonenumero": 6,
+    "hinta": 700,
+    "merkki": "Beast II",
+    "suoritin": "Letni 64",
+    "valmistusvuosi": 1990,
+    "kiintolevy": "10 GB",
+    "värit": ["punainen", "vihreä"],
+    "lisätiedot": { "kulutus": "C", "malli": "chrome" }
+  },
+  {
+    "tietokonenumero": 5,
+    "hinta": 200,
+    "merkki": "BigFlop Mark II",
+    "suoritin": "Älli",
+    "valmistusvuosi": 1990,
+    "kiintolevy": "10 GB",
+    "värit": ["oranssi", "punainen"],
+    "lisätiedot": { "kulutus": "A++", "malli": "XXL" }
+  },
+  {
+    "tietokonenumero": 7,
+    "hinta": 123,
+    "merkki": "Hirmu II",
+    "suoritin": "X-Force",
+    "valmistusvuosi": 2015,
+    "kiintolevy": "20 GB",
+    "värit": ["keltainen", "sininen", "punainen"],
+    "lisätiedot": { "kulutus": "A", "malli": "GT" }
+  }
+]
