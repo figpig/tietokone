@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function ComputerList({ computers, addToCart }) {
+const ComputerList = ({ computers, addToCart }) => {
   return (
     <div className="computer-list">
       {computers.map((pc) => (
@@ -26,4 +26,6 @@ export default function ComputerList({ computers, addToCart }) {
       ))}
     </div>
   );
-}
+};
+
+export default ComputerList;

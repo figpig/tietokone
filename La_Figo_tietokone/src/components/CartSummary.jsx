@@ -3,7 +3,6 @@ import React from "react";
 export default function CartSummary({ cart }) {
   if (cart.length === 0) return null;
 
-  // Group by tietokonenumero
   const summary = cart.reduce((acc, pc) => {
     acc[pc.tietokonenumero] = acc[pc.tietokonenumero] || { ...pc, count: 0 };
     acc[pc.tietokonenumero].count += 1;

@@ -57,3 +57,49 @@ button {
 button:hover {
     background-color: #218838;
 }
+
+button.poista {
+    background-color: #dc3545;
+    color: white;
+}
+
+button.poista:hover {
+    background-color: #c82333;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+
+.header-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+header .logo {
+    text-decoration: none;
+    color: white;
+}
+
+header .logo h1 {
+    color: white; 
+}
+
+header .cart-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+header .cart-button:hover {
+    background-color: #0056b3;
+}
